@@ -24,7 +24,7 @@ a, button{ display: inline-block; text-decoration: none; color: inherit; transit
 
 a:focus, a:active, a:hover,
 button:focus, button:active, button:hover,
-a b.light-color:hover{ text-decoration: none; color: rgb(255, 0, 38); }
+a b.light-color:hover{ text-decoration: none; color: rgb(0, 0, 0); }
 
 b{ font-weight: 500; }
 
@@ -94,7 +94,7 @@ b.light-color{ color: #444; }
 .main-area .notify-btn{ padding: 13px 35px; border-radius: 50px; border: 2px solid rgb(255, 255, 255);
 	color: #fff; background: rgb(0, 0, 0);}
 
-.main-area .notify-btn:hover{ background: rgb(37, 1, 4);}
+.main-area .notify-btn:hover{ background: rgb(83, 0, 0);}
 
 .main-area .social-btn{ position: absolute; bottom: 40px; width: 100%; left: 50%; transform: translateX(-50%); }
 
