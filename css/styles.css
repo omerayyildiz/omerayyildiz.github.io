@@ -101,7 +101,7 @@ b.light-color{ color: #444; }
 .main-area .social-btn > li > a{ margin: 0 10px; padding-bottom: 7px; position: relative; overflow: hidden; }
 
 .main-area .social-btn > li > a:after{ content:''; position: absolute; bottom: 0; left: 0; right: 0; 
-	transition: all .2s; height: 1px; background: rgb(247, 151, 8); }
+	transition: all .2s; height: 2px; background: rgb(247, 151, 8); }
 
 	
 .main-area .social-btn > li > a:hover:after{ transform: translateX(100%); }
