@@ -128,7 +128,7 @@ b.light-color{ color: #444; }
 
 .main-area .home-btn:hover, .home-btn:focus, .home-btn:active { 
   background: rgb(252,163,17); 
-  box-shadow: 0 10px 10px -10px rgb(0, 0, 0);
+  box-shadow: 0 0px 10px -10px rgb(0, 0, 0);
   color: rgb(0, 0, 0);
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
