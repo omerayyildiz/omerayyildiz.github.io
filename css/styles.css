@@ -97,7 +97,7 @@ b.light-color{ color: #444; }
 
 .font-white{ color: #fff; }
 .font-italic{ color: #fff; font-style: italic;}
-.font-bold-italic{ color: #fff; font-style: oblique; font-size: 13pt; }
+.font-bold-italic{ color: #fff; font-style: italic; font-size: 13pt; }
 
 /* ---------------------------------
 3. MAIN SECTION
